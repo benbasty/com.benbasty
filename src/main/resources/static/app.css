@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
+
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+
+.navbar{
+    background-color : #2791d3;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 700;
+}
+.nav-item {
+    padding : 10px;
+    font-size: 25px;
+    font-weight: 500;
+}
+.form-inline{
+    padding : 10px;
+}
+.homegif {
+    padding-top : 15px;
+}
+.homegif img {
+    width: 100%;
+    height: 200px;
+}
+
+.detailsgif{
+     padding-top : 15px;
+ }
+.detailsgif img{
+    width: 60%;
+    height: 500px;
+}
+
+
+.user-details{
+    padding: 10px;
+}
+
+.user-details img{
+    width:80px;
+    height:80px;
+    border-radius: 50%;
+}
+.user-infos{
+    padding-left : 8px;
+    display: inline-block;
+
+}
+.user-infos h5{
+    font-size: 20px;
+    color: #2791d3;
+}
+.user-infos p{
+
+    color: #b8b8b8;
+}
+.user-details-description{
+    padding-top: 20px;
+    margin-left : 150px;
+    display: inline-block;
+}
+.user-url-details{
+    padding-left : 350px;
+    display: inline-block;
+}
+
+.category{
+margin-top : 10px;
+text-transform: uppercase;
+font-size : 25px;
+background-color : #4287f5;
+width:18%;
+text-align : center;
+color : #ffffff;
+}
+
+.categories a{
+    text-decoration: none;
+    text-transform : uppercase;
+    font-size: 20px;
+    color : #ffffff;
+    font-weight: 700;
+}
+
+.categories .card-content {
+    text-align: center;
+    background: #42ecf5;
+}
+
+.categories .card {
+    margin-top : 10px;
+}
+
+.welcome-part{
+display:block;
+}
+
